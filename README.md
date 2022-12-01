@@ -4,6 +4,7 @@
 
 ## Some of my coding puzzles repos:
 
+* [Advent of Code 2022 (Java)](https://github.com/jerchende/advent-of-code-2022)
 * [Advent of Code 2021 (Java)](https://github.com/jerchende/advent-of-code-2021)
 * [Advent of Code 2020 (Java)](https://github.com/jerchende/advent-of-code-2020)
 * [Advent of Code 2019 (Java)](https://github.com/jerchende/advent-of-code-2019)
